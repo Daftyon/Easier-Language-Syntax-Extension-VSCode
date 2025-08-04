@@ -3,7 +3,7 @@
   "displayName": "EASIER Language Support",
   "description": "Language support and syntax highlighting for EASIER programming language",
   "version": "0.0.1",
-  "publisher": "ahafdi62",
+  "publisher": "AHAFDI",
   "engines": {
     "vscode": "^1.74.0"
   },
