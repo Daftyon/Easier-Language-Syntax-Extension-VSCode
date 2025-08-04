@@ -1,0 +1,24 @@
+{
+  "iconDefinitions": {
+    "easier-file": {
+      "iconPath": "../icons/easier-file-dark.svg"
+    },
+    "easier-file-light": {
+      "iconPath": "../icons/easier-file-light.svg"
+    }
+  },
+  "fileExtensions": {
+    "el": "easier-file"
+  },
+  "languageIds": {
+    "easier": "easier-file"
+  },
+  "light": {
+    "fileExtensions": {
+      "el": "easier-file-light"
+    },
+    "languageIds": {
+      "easier": "easier-file-light"
+    }
+  }
+}
